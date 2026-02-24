@@ -1,0 +1,12 @@
+Task1: Run background process
+ps command for running rocess
+bg command for background process
+
+Task2.Identify PID
+ps pid
+ps pgrep
+
+Task3: Kill process
+kill PID
+
+
