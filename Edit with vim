@@ -1,0 +1,7 @@
+Task1: Create file
+vim file2,txt
+Task2: Insert content
+Press ctl +i
+after write press esc for come out from file
+Task3:  Save & exit
+:wq
