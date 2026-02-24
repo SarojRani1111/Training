@@ -1,0 +1,16 @@
+Task1 : Create User :
+sudo useradd -m username : This command create user with directory
+-m creates folder for that user
+eg. sudo useradd -m saroj
+
+sudo passwd username
+eg. sudo passwd saroj
+     New Password :srk12345
+
+Task 2: Switch user
+ su username
+eg. su saroj
+
+Task3: Verify home directory
+ls /home
+ls -ld/home/saroj
