@@ -1,0 +1,50 @@
+Permissions : There are 3 types permissions 
+1. Use Permission
+2. Group permission
+3. Other permission
+
+rwx
+r: read permission
+w: write permission
+x: execute permission
+a: all permission
+
+ Note If first character is d then it is directort
+If first character is - then it is file
+
+
+for check permission ls -l
+
+To change permission of file we need to login as root user
+for that su command use
+eg. su
+
+Task1: Create file
+cat> saroj.txt
+or touch file1.txt
+Task2: Modify Permission
+
+chmod +permission
+chmod a+rwx  filename.txt
+eg. chmod  a+rwx saroj.txt
+This command will provide all permission to saroj 
+chmod u+ rw
+user only have read write permission
+chmod u+x file1.txt
+
+
+Task3: Change ownership
+chown 
+sudo chown ram saroj.txt
+
+Task4: Test access
+ls -l filename
+ls -l saroj.txt
+
+
+
+
+
+
+
+
