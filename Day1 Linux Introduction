@@ -1,0 +1,11 @@
+Linux is an open source operating system Kernel that manages hardware resources and allow software to communicate with hardware.
+Different Distribution (Distro):
+1. Ubuntu : Beginner friendly widely used .
+2.Debian : Stable and lightweight .
+3.RedHat Enterprise Linux: Enterprise level support.
+4. CentOS : Community driven enterprise style
+
+Linux Architecture consists:
+1. Hardware Layer
+2. Kernel act as mediator B/w hardware and Software
+3.System Libraries /Shell and Applications
