@@ -1,0 +1,9 @@
+First we will type ssh -keygen command for generate the  key
+then it will ask authentication
+we have to enter  then
+It will save key in specific path
+Then Copy your public sskey to remote server
+
+ssh-copy-id root@IP address
+Note By using ifconfig we can get IP address of remote server
+eg. ssh-copy-id root@192.168.28.115
