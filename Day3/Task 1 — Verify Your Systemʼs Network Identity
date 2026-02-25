@@ -1,1 +1,9 @@
+In Linux, you can check your assigned IP using
+ip addr
 
+By using 
+ifconfig or ip addr We can check IP address
+
+ We can view routing information using:
+ip route
+hostname -I To check host
