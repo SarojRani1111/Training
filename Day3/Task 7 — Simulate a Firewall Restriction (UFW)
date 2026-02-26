@@ -1,0 +1,10 @@
+UFW tool not found then I installed
+Enable firewall:
+sudo ufw enable
+Allow only web traffic:
+1
+2
+sudo ufw allow 80
+sudo ufw allow 443
+Block SSH temporarily 
+sudo ufw deny 22
