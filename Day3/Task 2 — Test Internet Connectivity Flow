@@ -1,0 +1,25 @@
+1. Use 
+ping
+ to check basic connectivity.
+eg: ping google.com
+2. Use 
+dig
+ to verify DNS resolution.
+eg:dig amazon.in
+
+3. Use 
+traceroute
+ if connectivity fails.
+eg:traceroute google.com
+
+4. Use 
+ss
+ to confirm the service is listening locally.
+5. Use 
+nc
+ to test remote port access.
+6. Use 
+curl
+ to test the application response.
+eg:
+curl -I https://google.com
