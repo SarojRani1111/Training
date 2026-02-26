@@ -1,0 +1,7 @@
+Edit:
+sudo nano /etc/hosts
+
+Add:
+127.0.0.1 mytest.local
+Now access:
+http://mytest.local
