@@ -1,0 +1,8 @@
+Server:         10.255.255.254
+Address:        10.255.255.254#53
+
+Non-authoritative answer:
+Name:   google.com
+Address: 142.251.222.206
+Name:   google.com
+Address: 2404:6800:4007:835::200e
