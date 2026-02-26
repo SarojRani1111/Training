@@ -1,6 +1,6 @@
 Task 5 — Check Listening Ports
 ss -tuln
-Identify port 80 (HTTP).
+Identify port 80 (HTTP).yes it is 80 port
  stopping the server:
 sudo systemctl stop nginx 
 
