@@ -1,0 +1,7 @@
+Task 5 — Check Listening Ports
+ss -tuln
+Identify port 80 (HTTP).
+ stopping the server:
+sudo systemctl stop nginx 
+
+Check again — the port should disappear
